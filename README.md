@@ -1,3 +1,11 @@
+Created with:
+
+```
+$ yarn create react-app react-ts-template --typescript
+$ cd react-ts-template
+$ yarn add typescript @types/node @types/react @types/react-dom @types/jest
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
