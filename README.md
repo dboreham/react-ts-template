@@ -5,6 +5,7 @@ $ yarn create react-app react-ts-template --typescript
 $ cd react-ts-template
 $ yarn add typescript @types/node @types/react @types/react-dom @types/jest
 $ npx sb init
+(then fix the broken stuff)
 ```
 
 # Getting Started with Create React App
